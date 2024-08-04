@@ -1,0 +1,1 @@
+# myLearningOfJavascriptPart1
